@@ -11,5 +11,5 @@ Use the following link to add the repository:
 Alternatively go to the Add-On Store, Click the three dots, then Repositories, and then add the following:
 
 ```
-https://github.com/gschmidl/hassio-spoolman
+https://github.com/lfpoulain/hassio-spoolman
 ```
