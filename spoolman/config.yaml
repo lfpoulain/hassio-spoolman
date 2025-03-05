@@ -1,6 +1,6 @@
 name: Spoolman Server
 description: Run the latest stable version of Spoolman.
-url: https://github.com/donkie/spoolman
+url: https://github.com/lfpoulain/Spoolman
 slug: spoolman_server
 init: false
 arch:
